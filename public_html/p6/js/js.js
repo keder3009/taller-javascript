@@ -1,0 +1,15 @@
+var n1=50, n2=10, result;
+result=parseInt(n1**n2);
+console.log("50 at the 10 is = "+result+"");
+result=Math.pow(n2,n1);
+console.log("10 at the 50 is = "+result+"");
+result=(n1*n2);
+console.log("multiplication between 50 and 10 is = "+result+"");
+result=(n2/n1);
+console.log("division between 10 and 50 is ="+result+"");
+result=(n1%n2);
+console.log("division module between 50 and 10 is = "+result+"");
+result=(n1-n2);
+console.log("substraction between 50 and 10 is = "+result+"");
+result=(n1+n2);
+console.log("addition between 50 and 10 is = "+result+"");

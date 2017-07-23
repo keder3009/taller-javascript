@@ -1,0 +1,17 @@
+var n1, n2, result;
+n1=prompt("write first number for addition");
+n2=prompt("write second number for addition");
+result=(n1+n2);
+console.log("addition between "+n2+" and "+n1+" is = "+result+"");
+n1=prompt("write first number for substraction");
+n2=prompt("write second number for substraction");
+result=(n1-n2);
+console.log("substraction between "+n2+" and "+n1+" is = "+result+"");
+n1=prompt("write first number for multiblication");
+n2=prompt("write second number for multiplication");
+result=(n1*n2);
+console.log("Multiplication between "+n1+" and "+n2+" is = "+result+"");
+n1=prompt("write first number for division");
+n2=prompt("write second number for division");
+result=(n1/n2);
+console.log("division between "+n1+" and "+n2+" is = "+result+"");
