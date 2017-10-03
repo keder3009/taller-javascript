@@ -1,0 +1,13 @@
+//var year,month,day,hour,minute,second;
+var year = 15;
+console.log(" 15 years possises : ");
+var month = year * 12;
+var day = year * 365;
+var hour = year * (24 * 365);
+var minute = year * (60 * (24 * 365));
+var second = year * (60 * (60 * (24 * 365)));
+console.log(" months : " + month);
+console.log(" days : ", day);
+console.log(" hours : ", hour);
+console.log(" minutes : ", minute);
+console.log(" seconds : ", second);

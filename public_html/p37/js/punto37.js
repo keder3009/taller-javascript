@@ -1,0 +1,1 @@
+$("#title").text("hello this is my script number 37 in javascript using jQuery");
